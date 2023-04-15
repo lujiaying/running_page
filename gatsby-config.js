@@ -4,7 +4,7 @@ module.exports = {
     siteTitle: "Jiaying's Running Page",
     siteUrl: 'https://lujiaying.github.io',
     logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
-    description: 'Personal site for running records',
+    description: 'Personal site for keeping running records.',
     navLinks: [
       {
         name: "Personal Website",
