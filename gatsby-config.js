@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: `/running_page`,
+  pathPrefix: process.env.PATH_PREFIX || '/',
   siteMetadata: {
     siteTitle: "Jiaying's Running Page",
     siteUrl: 'https://lujiaying.github.io',
@@ -8,7 +8,7 @@ module.exports = {
     navLinks: [
       {
         name: "Personal Website",
-        url: 'https://lujiaying.github.io/',
+        url: 'https://lujiaying.github.io',
       },
     ],
   },
