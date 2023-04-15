@@ -1,13 +1,13 @@
 module.exports = {
-  pathPrefix: `/running`,
+  pathPrefix: `/running_page`,
   siteMetadata: {
-    siteTitle: 'Running Page',
+    siteTitle: "Jiaying's Running Page",
     siteUrl: 'https://lujiaying.github.io',
     logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
     description: 'Personal site for running records',
     navLinks: [
       {
-        name: "Jiaying's Personal Webpage",
+        name: "Personal Website",
         url: 'https://lujiaying.github.io/',
       },
     ],
